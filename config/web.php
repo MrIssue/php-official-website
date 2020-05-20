@@ -53,7 +53,6 @@ $config = [
     ],
     'modules' => [
         'backend' => 'app\modules\backend\BackendModule',
-        'front' => 'app\modules\front\FrontModule',
     ],
     'params' => $params,
 ];
